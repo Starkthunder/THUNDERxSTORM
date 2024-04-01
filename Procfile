@@ -1,0 +1,1 @@
+THETHUNDER: python -m main.py
